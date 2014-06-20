@@ -1,0 +1,12 @@
+{
+    "repo_name": "collective.example",
+    "package_namespace": "collective",
+    "package": "example",
+    "version": "1.0",
+    "zope2product": 1,
+    "add_profile": 0,
+    "add_robot_tests": 0,
+    "description": "",
+    "author": "",
+    "url": "http://example.com"
+}
